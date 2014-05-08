@@ -15,7 +15,6 @@
 /log/*.log
 /tmp
 
-/config/secrets*
 /config/database.yml
 
 # Ignore other unneeded files.
